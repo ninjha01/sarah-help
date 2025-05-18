@@ -1,0 +1,183 @@
+### Bin: 1009_05-07-2025_metadecoder.fasta.1.fasta
+disinfecting agents and antiseptics (14)
+
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (13)
+
+fluoroquinolone antibiotic (29)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (28)
+
+nitrofuran antibiotic (1)
+        - antibiotic efflux (1)
+
+macrolide antibiotic (15)
+        - antibiotic efflux (15)
+
+rifamycin antibiotic (8)
+        - antibiotic efflux (7)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+phosphonic acid antibiotic (1)
+        - antibiotic efflux (1)
+
+lincosamide antibiotic (1)
+        - antibiotic efflux (1)
+
+phenicol antibiotic (15)
+        - antibiotic efflux (14)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+sulfonamide antibiotic (1)
+        - antibiotic efflux (1)
+
+cephalosporin (245)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic inactivation (230)
+        - antibiotic efflux (13)
+        - reduced permeability to antibiotic (1)
+
+monobactam (234)
+        - antibiotic inactivation (230)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (2)
+        - reduced permeability to antibiotic (1)
+
+aminoglycoside antibiotic (8)
+        - antibiotic inactivation (1)
+        - antibiotic efflux (7)
+
+nitroimidazole antibiotic (1)
+        - antibiotic efflux (1)
+
+nucleoside antibiotic (5)
+        - antibiotic efflux (5)
+
+glycylcycline (8)
+        - antibiotic efflux (7)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+tetracycline antibiotic (18)
+        - antibiotic efflux (17)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+diaminopyrimidine antibiotic (5)
+        - antibiotic efflux (5)
+
+carbapenem (238)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (6)
+        - antibiotic inactivation (230)
+        - reduced permeability to antibiotic (1)
+
+aminocoumarin antibiotic (8)
+        - antibiotic efflux (8)
+
+penicillin beta-lactam (252)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic inactivation (230)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux (20)
+
+peptide antibiotic (10)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux (5)
+        - antibiotic target alteration (4)
+
+### Bin: short_contig_3.fasta
+disinfecting agents and antiseptics (14)
+        - antibiotic efflux (13)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+fluoroquinolone antibiotic (29)
+        - antibiotic efflux (28)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+nitrofuran antibiotic (1)
+        - antibiotic efflux (1)
+
+macrolide antibiotic (15)
+        - antibiotic efflux (15)
+
+rifamycin antibiotic (8)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (7)
+
+phosphonic acid antibiotic (1)
+        - antibiotic efflux (1)
+
+lincosamide antibiotic (1)
+        - antibiotic efflux (1)
+
+phenicol antibiotic (15)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (14)
+
+sulfonamide antibiotic (1)
+        - antibiotic efflux (1)
+
+cephalosporin (15)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux (13)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+
+monobactam (4)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (2)
+
+aminoglycoside antibiotic (7)
+        - antibiotic efflux (7)
+
+nitroimidazole antibiotic (1)
+        - antibiotic efflux (1)
+
+nucleoside antibiotic (5)
+        - antibiotic efflux (5)
+
+glycylcycline (8)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (7)
+
+tetracycline antibiotic (18)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (17)
+
+diaminopyrimidine antibiotic (5)
+        - antibiotic efflux (5)
+
+carbapenem (8)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - antibiotic efflux (6)
+
+aminocoumarin antibiotic (8)
+        - antibiotic efflux (8)
+
+penicillin beta-lactam (22)
+        - antibiotic efflux;reduced permeability to antibiotic (1)
+        - reduced permeability to antibiotic (1)
+        - antibiotic efflux (20)
+
+peptide antibiotic (10)
+        - antibiotic efflux (5)
+        - antibiotic target alteration (4)
+        - reduced permeability to antibiotic (1)
+
+### Bin: short_contig_4.fasta
+cephalosporin (230)
+        - antibiotic inactivation (230)
+
+monobactam (230)
+        - antibiotic inactivation (230)
+
+aminoglycoside antibiotic (1)
+        - antibiotic inactivation (1)
+
+carbapenem (230)
+        - antibiotic inactivation (230)
+
+penicillin beta-lactam (230)
+        - antibiotic inactivation (230)
+
+[INFO] AMR summary complete: 3 bins had hits.

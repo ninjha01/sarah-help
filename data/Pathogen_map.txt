@@ -1,0 +1,47 @@
+Species: Transposon Tn903	Total_Reads: 1
+  Strain: 	Reads: 1
+
+Species: Klebsiella pneumoniae	Total_Reads: 1
+  Strain: strain Xen39 chromosome, complete genome	Reads: 1
+
+Species: Escherichia coli	Total_Reads: 63
+  Strain: strain USML2, complete genome	Reads: 1
+  Strain: strain J53 chromosome, complete genome	Reads: 1
+  Strain: strain ECCWS199 chromosome, complete genome	Reads: 4
+  Strain: strain CFSAN064035 chromosome, complete genome	Reads: 1
+  Strain: strain MG1655 K12 plasmid F-Tn10, complete sequence	Reads: 1
+  Strain: strain DH5alpha chromosome, complete genome	Reads: 3
+  Strain: strain NBRC 3301 plasmid putative_pEcol1, complete sequence	Reads: 1
+  Strain: K-12 strain C3026 plasmid F128-(C3026), complete sequence	Reads: 2
+  Strain: 'BL21-Gold(DE3)pLysS AG', complete genome	Reads: 1
+  Strain: strain ecMN1F chromosome, complete genome	Reads: 1
+  Strain: strain CQSW20, complete genome	Reads: 2
+  Strain: K-12 strain DHB4 plasmid F128-(DHB4), complete sequence	Reads: 1
+  Strain: genome assembly FHI40, scaffold scaffold-24_contig-48.18_620204_716630_[organism:Escherichia	Reads: 1
+  Strain: strain pdeL_2_1 chromosome	Reads: 1
+  Strain: strain ECOL-18-VL-LA-PA-Ryan-0026 chromosome, complete genome	Reads: 1
+  Strain: strain DS1 genome	Reads: 1
+  Strain: strain ER1709 chromosome, complete genome	Reads: 5
+  Strain: strain S17-1 chromosome, complete genome	Reads: 1
+  Strain: DH1, complete genome	Reads: 2
+  Strain: K-12 chromosome, complete genome	Reads: 3
+  Strain: K-12 GM4792 Lac-, complete genome	Reads: 1
+  Strain: strain 300709 chromosome, complete genome	Reads: 1
+  Strain: str. K-12 substr. MG1655 chromosome, complete genome	Reads: 1
+  Strain: KLY, complete genome	Reads: 1
+  Strain: strain NCTC12655 genome assembly, chromosome: 1	Reads: 1
+  Strain: strain DH1Ec104, complete genome	Reads: 1
+  Strain: strain CFS3246 chromosome, complete genome	Reads: 1
+  Strain: strain EC590, complete genome	Reads: 4
+  Strain: strain K-12 NEB 5-alpha, complete genome	Reads: 2
+  Strain: strain CM IVRI KOL-1 chromosome, complete genome	Reads: 4
+  Strain: strain ER1821R, complete genome	Reads: 1
+  Strain: strain NCYU-21-79 chromosome, complete genome	Reads: 2
+  Strain: DH1 (ME8569) DNA, complete genome	Reads: 2
+  Strain: strain CREC-532 chromosome, complete genome	Reads: 1
+  Strain: strain pK19EC149 chromosome	Reads: 1
+  Strain: strain MRSN352231 plasmid pMR0716_tem1, complete sequence	Reads: 1
+  Strain: strain S1, complete genome	Reads: 1
+  Strain: strain DH1Ec095, complete genome	Reads: 2
+  Strain: isolate 108 genome assembly, chromosome: I	Reads: 1
+
